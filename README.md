@@ -7,9 +7,10 @@ Let’s start with the spring-boot-starter-webflux dependency, which actually pu
 spring-boot and spring-boot-starter for basic Spring Boot application setup
 spring-webflux framework
 reactor-core that we need for reactive streams and also reactor-netty
-
+```
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-webflux</artifactId>
     <version>2.0.3.RELEASE</version>
 </dependency>
+```
